@@ -12,6 +12,16 @@
 
 ---
 
+## ❌ The Problem
+
+Custom automotive shops rely on walk-ins, phone calls, and Instagram DMs to generate leads — but most inquiries go unanswered after hours. Customers want to know vehicle modification pricing and availability but get radio silence until the next business day. By then they've called 3 other shops. No instant quotes, no virtual previews, no booking system — just missed opportunities from a static brochure website.
+
+**Before:** Static brochure site, phone-only inquiries, 24hr+ response time, no instant quoting, no booking system, lost leads daily.
+
+**After (AI Agent Fleet):** AI Design Consultant engages visitors 24/7 via SMS/web, AI generates instant quotes + preview links, AI books shop appointments automatically, AI follows up post-visit for reviews and referrals. 3x more booked builds.
+
+---
+
 ## 🤖 Before vs After: AI Agent Transformation
 
 ```mermaid
